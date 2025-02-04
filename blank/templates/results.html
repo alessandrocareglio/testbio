@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+    <h1>Biological activity estimation results</h1>
+
+    {% if error_message %}
+        <p style="color: red;">{{ error_message }}</p>
+    {% endif %}
+
+    {% if graph_filenames %}
+        <h2>Graph:</h2>
+
+        <div style="display: flex; flex-direction: column;">  {# Contenitore PRINCIPALE in colonna #}
+            {% if graph_filenames.scatter %}
+                <div style="margin-bottom: 20px;"> {# Contenitore per ogni grafico #}
+                    <h3>Scatterplot</h3>
+                    {% if "Errore" in graph_filenames.scatter %}
+                        <p style="color:red">{{ graph_filenames.scatter }}</p>
+                    {% else %}
+                        <img src="data:image/png;base64,{{ graph_filenames.scatter }}" alt="Scatterplot" style="max-width: 100%;">
+                    {% endif %}
+                </div>
+            {% endif %}
+
+            {% if graph_filenames.bar %}
+                <div style="margin-bottom: 20px;">
+                    <h3>Barplot</h3>
+                    {% if "Errore" in graph_filenames.bar %}
+                        <p style="color:red">{{ graph_filenames.bar }}</p>
+                    {% else %}
+                        <img src="data:image/png;base64,{{ graph_filenames.bar }}" alt="Barplot" style="max-width: 100%;">
+                    {% endif %}
+                </div>
+            {% endif %}
+
+            {% if graph_filenames.box %}
+                <div style="margin-bottom: 20px;">
+                    <h3>Boxplot</h3>
+                    {% if "Errore" in graph_filenames.box %}
+                        <p style="color:red">{{ graph_filenames.box }}</p>
+                    {% else %}
+                        <img src="data:image/png;base64,{{ graph_filenames.box }}" alt="Boxplot" style="max-width: 100%;">
+                    {% endif %}
+                </div>
+            {% endif %}
+        </div>  {# Chiusura del contenitore PRINCIPALE in colonna #}
+    {% endif %}
+
+    {% if network_graph_filename %}
+        <h2> Network Graph:</h2>
+        <div style="text-align: center;">
+            {% if "Errore" in network_graph_filename %}
+                <p style="color:red">{{ network_graph_filename }}</p>
+            {% else %}
+                <img src="data:image/png;base64,{{ network_graph_filename }}" alt="Network Graph" style="max-width: 90%;">
+            {% endif %}
+        </div>
+    {% endif %}
+
+    
+    
+   <script>
+    console.log("Valore di comparison_results:", {{ comparison_results|safe }});
+   </script> 
+    
+    
+    
+    
+    {% if comparison_results %}
+        <h2>Comparison Results (Tanimoto coefficient):</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Query Index</th>
+                    <th>Library Index</th>
+                    <th>Tanimoto Similarity</th>
+                    <th>Target</th>
+                    <th>Bioactivity</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for result in comparison_results %}
+               
+                    <tr>
+                        <td>{{ result.query_index }}</td>
+                        <td>{{ result.library_index }}</td>
+                        <td>{{ result.similarity|floatformat:3 }}</td>
+                        <td>{{ result.target }}</td>
+                        <td>{{ result.bioactivity}}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endif %}
+
+    <a href="{% url 'blank:index' %}">Torna al form</a>
+{% endblock %}

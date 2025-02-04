@@ -1,0 +1,54 @@
+{% extends "base.html" %}  {# Eredita da base.html, IMPORTANTE! #}
+
+{% block title %}
+    <title>Presentazione del sito</title>
+{% endblock %}
+
+{% block content %}  {# Assicurati che il blocco content sia aperto e chiuso correttamente #}
+    <h1>Welcome to testbio: a tool for estimating the bioactivity of phytocomplexes (mixtures of compounds found in plant material).</h1>
+
+    <p>
+   
+
+Researchers studying medicinal plants often face the challenge of understanding the combined effects of the many different compounds present in plant extracts.  Predicting the bioactivity of these complex mixtures, known as phytocomplexes, can be time-consuming and expensive. TestBio offers a solution by providing a rapid, in silico method for estimating the potential bioactivity of a phytocomplex.  By comparing the molecular structures of the phytocomplex components to a library of known bioactive compounds, TestBio identifies potential targets and suggests possible bioactivities, accelerating the research process and guiding further investigation.  This tool is valuable for anyone working with plant extracts, from academic researchers to those in the nutraceutical and pharmaceutical industries.   
+On this site, you can predict the biological activity of the compounds found in a plant species.
+
+
+By entering the molecules from a botanical species in the appropriate text area in SMILES format, one per line, you will obtain a dataset of information that will be analyzed with four types of graphs.
+
+How this tool works: The molecules provided to this tool are processed by calculating their fingerprints, which are then compared against a library of 1,700 compounds with known biological activity and protein targets. These targets are the receptor proteins within the human body that the compounds bind to in order to produce a biological effect.
+
+The fingerprint comparison is performed using the Tanimoto coefficient. This returns a value between zero and one, where 1 represents identity. Each molecule processed is compared against every compound in the library, returning a ranking of the compounds with the highest similarity. This produces a DataFrame containing the similarity scores, target information, and bioactivities for each comparison.
+
+
+    </p>
+
+   The dataset is analyzed with four types of graphs:
+
+
+Scatter Plot: Generates a scatter plot to visualize the distribution of Tanimoto similarity scores for each compound in the phytocomplex.
+
+
+Bar Chart: Creates a bar chart to show the frequency of different protein targets associated with the compounds.
+
+
+Box Plot: Generates a box plot to analyze the distribution of Tanimoto similarity scores across different targets.
+
+
+Network Visualization: Constructs a network visualization to depict the interactions between compounds in the phytocomplex and potential target molecules.
+
+
+Overall, the code effectively utilizes Python libraries such as pandas, RDKit, matplotlib, and plotly to perform data manipulation, fingerprint analysis, and various visualizations.
+This  tool is for research purposes only and not for medical advice.
+
+
+
+    <p>
+       
+
+    <p>
+      For further information, please consult the tutorial and send any inquiries to the email address: 
+      <a href="mailto:alessandrocareglio@gmail.com">alessandrocareglio@gmail.com</a>
+       
+    </p>
+{% endblock %}  {# Assicurati che il blocco content sia aperto e chiuso correttamente #}

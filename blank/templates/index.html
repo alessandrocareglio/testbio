@@ -1,0 +1,34 @@
+
+
+
+
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>testbio</h1>
+    <form method="post" action="{% url 'blank:process_smiles' %}">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">processes molecules (takes a few minutes)</button>
+    </form>
+
+    {% include "presentazione.html" %}  {# Includi qui la pagina di presentazione #}
+{% endblock %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+Django
+django-environ
+daphne
+django-bootstrap4
+numpy
+rdkit
+pandas
+openpyxl
+matplotlib
+networkx
+seaborn
+base64
+io

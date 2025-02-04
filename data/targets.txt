@@ -1,0 +1,1700 @@
+5-HT Receptor antagonist
+PDE inhibitor
+Glucocorticoid Receptor inhibitor
+"Histamine Receptor;Potassium Channel inhibitor"
+Raf inhibitor, VEGFR inhibitor, PDGFR inhibitor
+Histamine Receptor antagonist
+DPP-4 inhibitor
+Others
+"PDGFR inhibitor; Raf inhibitor; FLT3 inhibitor, FGFR inhibitor, RET inhibitor; Mast/stem cell GFR Kit"
+GABAR agonist
+Adrenergic Receptor antagonist
+"RAAS inhibitor; ACE inhibitor;ChE inhibitor;MRP inhibitor"
+"AChR antagonist;Dopamine Receptor antagonist;Histamine antagonist;5-HT receptor antagonist"
+Antibacterial
+"AChR antagonist;Histamine antagonist;Potassium Channel inhibitor"
+Reductase inhibitor
+Adrenergic Receptor agonist
+"EGFR inhibitor; HER2 inhibitor"
+"DNA synthesis inhibitor;STAT inhibitor"
+Adrenergic Receptor agonist
+DNA Methyltransferase inhibitor
+HMG-CoA Reductase inhibitor
+Antibacterial
+DHPS inhibitor
+Progesterone Receptor agonist
+Histamine Receptor antagonist
+Others
+"RAAS inhibitor; ACE inhibitor"
+Others
+"Antibiotic; DNA/RNA Synthesis inhibitor;HSP inhibitor"
+Others
+"Mineralocorticoid Receptor Antagonist LIPT1 Multivitamin uptake inhibitor;VB"
+Adrenergic Receptor antagonist
+Adrenergic Receptor antagonist
+AChR antagonist
+Antibacterial
+Antibiotic
+"Adrenergic Receptor antagonist;5-HT receptor antagonist"
+Adrenergic Receptor antagonist
+Histamine Receptor
+Adrenergic Receptor antagonist
+Adrenergic Receptor antagonist
+Dopamine Receptor antagonist
+Topoisomerase inhibitor
+HAP antagonist
+"5-HT Receptor antagonist; Opioid Receptor"
+Immunologic Factors
+"Serotonin uptake inhibitor;AChR antagonist;Adrenergic Receptor antagonist;Histamine Receptor"
+Others
+5-HT Receptor antagonist
+Hexokinase inhibitor
+Antibiotic
+"Antiviral; DNA/RNA Synthesis inhibitor"
+"Dopa decarboxylase inhibitor;Dopamine Receptor antagonist"
+"Glucocorticoid Receptor agonist; Estrogen/progestogen Receptor agonist"
+"5-HT receptor antagonist;Potassium Channel inhibitor"
+"VEGFR antagonist; EGFR inhibitor"
+Topoisomerase inhibitor
+DHPS inhibitor
+Adrenergic Receptor antagonist
+Histamine Receptor
+Antibiotic
+Endothelin Receptor antagonist
+Dehydrogenase inhibitor
+Intermediates
+Antibiotic
+Antiparasitic
+Thyroid hormone receptor agonist
+"PLA inhibitor;Topoisomerase inhibitor"
+Antibacterial
+Adrenergic Receptor antagonist
+HIV Protease inhibitor
+COX
+"Adrenergic Receptor antagonist;ChE potentiator"
+Reverse Transcriptase inhibitor
+"AChR antagonist;Adrenergic Receptor antagonist"
+Dehydrogenase inhibitor
+"5-HT receptor antagonist;Dopamine Receptor antagonist;AChR antagonist"
+DNA Synthesis inhibitor
+"Calcium Channel; Ryanodine receptor antagonist"
+Potassium Channel activator
+Others
+Immunologic Factors
+"Antiviral;DNA/RNA Synthesis inhibitor"
+COX inhibitor
+"Bcl-2 inhibitor; Microtubule Assosiated inhibitor"
+Others
+Opioid Receptor antagonist
+PDE inhibitor
+"Adrenergic Receptor antagonist;Dopamine Receptor antagonist;5-HT receptor antagonist;Histamine antagonist"
+Androgen Receptor agonist
+"DNA gyrase inhibitor;Topoisomerase inhibitor"
+COX inhibitor
+Hedgehog/Smoothened Receptor antagonist
+"Antibacterial; MRP inhibitor"
+COX
+PDE inhibitor
+Others
+Antiparasitic
+Prostaglandin Receptor
+"Microtubule Associated inhibitor; MRP inhibitor"
+Others
+AChR antagonist
+JAK inhibitor
+"Annexin A;Glucocorticoid Receptor inhibitor"
+"Histone Demethylase inhibitor; MAO inhibitor"
+GABAR antagonist
+Others
+Microtubule Associated inhibitor
+"Microtubule Associated inhibitor; MRP inhibitor"
+S1P Receptor antagonist
+JAK inhibitor
+Antibacterial
+Thyroid hormone analogue agonist
+"TNF-alpha inhibitor; PDE inhibitor"
+"Cholinergic;Histamine antagonist"
+"Antibiotic;GluCl channels"
+Glucocorticoid Receptor agonist
+Protease inhibitor
+"Noradrenaline uptake inhibitor;Serotonin uptake inhibitor;Histamine antagonist;Opioid Receptor agonist;Dopamine Receptor ;Adrenergic Receptor antagonist ;5-HT receptor antagonist;Dopamine uptake inhibitor"
+"Topoisomerase inhibitor; MRP inhibitor"
+JAK inhibitor
+Estrogen/Progestogen Receptor agonist
+DNA Alkylating
+Serotonin uptake inhibitor
+Estrogen/Progestogen Receptor agonist
+Dopamine Receptor antagonist
+"AChE inhibitor;AChR modulator"
+AChR antagonist
+Antibiotic
+Antiviral
+Adrenergic Receptor agonist
+Others
+Estrogen/Progestogen Receptor agonist
+Estrogen/Progestogen receptor agonist
+Antibiotic
+"Cytochrome b inhibitor;Dehydrogenase inhibitor"
+HMG-CoA Reductase inhibitor
+"5-HT Receptor antagonist;Serotonin uptake inhibitor"
+Glucocorticoid Receptor agonist
+ATPase inhibitor
+GABAR modulator
+Reverse Transcriptase inhibitor
+Carbonic anhydrase inhibitor
+Others
+"DNA/RNA Synthesis inhibitor; Thymidylate synthase inhibitor"
+"RAAS inhibitor; ACE inhibitor"
+Vasopressin Receptor agonist
+Antibiotic
+Others
+VEGFR inhibitor
+5-HT Receptor antagonist
+Thyroid hormone receptor agonist
+"Egr-1 inhibitor;VEGF inhibitor"
+ChE inhibitor
+Antiprotozoal
+DNA Synthesis inhibitor
+Adrenergic Receptor
+Antibiotic
+Glucocorticoid Receptor agonist
+Others
+Glucocorticoid Receptor agonist
+Amino Acids and Derivatives
+Others
+Microtubule Associated inhibitor
+Intermediates
+Endothelin Receptor antagonist
+Others
+"Antibiotic;DNA alkylation"
+SGLT inhibitor
+Bcl-2 inhibitor
+Antibiotic
+HDAC inhibitor
+AChE inhibitor
+OX Receptor antagonist
+TpoR agonist
+Cholinergic Activator
+"Potassium Channel; Adrenergic Receptor antagonist"
+HIV integrase inhibitor
+DPP-4 inhibitor
+VEGFR inhibitor
+Antifungal
+DPP-4 inhibitor
+EGFR inhibitor
+MAO inhibitor
+Proton Pump inhibitor
+Cannabinoid Receptor antagonist
+AMPAR modulator
+Adrenergic Receptor antagonist
+"EGFR inhibitor; HER2 inhibitor"
+Antifungal
+Histamine Receptor antagonist
+AGTR antagonist
+5-HT Receptor agonist
+CTFR activator
+CCK Receptor antagonist
+Histamine Receptor
+5-HT Receptor antagonist
+PGE2 inhibitor
+Antifungal
+VEGFR inhibitor
+EGFR inhibitor
+CFTR modulator
+Adrenergic Receptor agonist
+Antifungal
+Norepinephrine inhibitor
+PARP inhibitor
+Dopamine Receptor antagonist
+DNA/RNA Synthesis inhibitor
+Others
+Substance P antagonist
+Hedgehog/Smoothened Receptor antagonist
+Adrenergic Receptor antagonist
+Adrenergic Receptor agonist
+HDAC inhibitor
+Integrase inhibitor
+PDE inhibitor
+Others
+Adrenergic Receptor agonist
+VEGFR inhibitor
+Adenosine Receptor Agonist
+Intermediates
+Estrogen/Progestogen Receptor agonist
+Antibacterial
+Others
+Others
+Cross-linking DNA
+Protease inhibitor
+mTOR inhibitor
+NMDAR
+"c-Met inhibitor; Raf inhibitor; Bcr-Abl inhibitor; p38 MAPK inhibitor"
+Antibacterial
+Antiparasitic
+AChR antagonist
+Estrogen/Progestogen Receptor agonist
+VEGFR inhibitor
+AChR agonist
+Dopamine Receptor antagonist
+Potassium Channel inhibitor
+Proteasome inhibitor
+Others
+Bcr-Abl inhibitor
+VEGFR inhibitor
+Substance P antagonist
+Antifungal
+CXCR antagonist
+Reverse Transcriptase inhibitor
+"VEGFR inhibitor; PDGFR inhibitor; FGFR inhibitor; Raf inhibitor"
+CDK inhibitor
+COX inhibitor
+"Calmodulin inhibitor;Dopamine Receptor antagonist"
+"PI3K inhibitor; mTOR inhibitor"
+BTK inhibitor
+Others
+"KDR inhibitor;PDGFR? inhibitor;CSF-1R inhibitor;c-Kit inhibitor;FLT3 inhibitor"
+Sodium Channel inhibitor
+CFTR inhibitor
+Adrenergic Receptor agonist
+Antibiotic
+Integrase inhibitor
+VEGFR inhibitor
+MAO inhibitor
+Others
+MTP inhibitor
+Others
+Biliation inhibitor
+Antibiotic
+MEK inhibitor
+ATPase inhibitor
+Sodium Channel
+Dopamine Receptor antagonist
+"Dopamine Receptor antagonist;AChR antagonist;5-HT receptor antagonist"
+ChE inhibitor
+TRP/TRPV Channel agonist
+Adrenergic Receptor antagonist
+ChE inhibitor
+mTOR inhibitor
+"Corticosteroid-binding globulin;Glucocorticoid Receptor agonist"
+ChE inhibitor
+ChE inhibitor
+DNA Synthesis inhibitor
+Antibacterial
+Glucocorticoid Receptor agonist
+Others
+P2 Receptor inhibitor
+ROS
+NF-?B inhibitor
+5-HT Receptor agonist
+DPP-4 inhibitor
+Influenza Virus
+Cannabinoid Receptor
+AChR antagonist
+Adrenergic Receptor agonist
+COX inhibitor
+Camphor 5-monooxygenase
+"Melatonin receptor agonist;MPO inhibitor;Estrogen Receptor antagonist;ROR agonist, Calmodulin"
+DHFR inhibitor
+Antibiotic
+"Topoisomerase inhibitor; DNA gyrase inhibitor"
+Antibiotic
+Somatostatin receptor
+HCV inhibitor
+Estrogen/Progestogen Receptor modulator
+Dopamine Receptor inhibitor
+Histamine Receptor antagonist
+MMP inhibitor
+Others
+HIV Protease inhibitor
+AChR antagonist
+"EGFR inhibitor; HER2 inhibitor"
+Potassium Channel
+"ATPase inhibitor;Potassium Channel; Carbonic anhydrase inhibitor"
+Others
+IL inhibitor
+Others
+Others
+COX
+Others
+Dehydrogenase inhibitor
+Immunologic Factors
+Sodium Channel inhibitor
+Adrenergic Receptor
+"Caspase activator;DNA/RNA Synthesis inhibitor"
+Others
+Others
+ChE inhibitor
+"Bcl-2 activator; MAO inhibitor"
+AChE inhibitor
+Adrenergic Receptor agonist
+Androgen Receptor agonist
+AChR antagonist
+AChR antagonist
+Dopamine Receptor antagonist
+"5-HT Receptor antagonist;Dopamine Receptor antagonist"
+"5-HT Receptor antagonist;Dopamine Receptor antagonist"
+Progesterone receptor modulator
+Estrogen/Progestogen Receptor agonist
+Potassium Channel
+Influenza Virus
+Androgen Receptor Agonist
+"COX inhibitor; Potassium Channel"
+Histamine Receptor antagonist
+Calcium Channel inhibitor
+Others
+GluCl Channel inhibitor
+Antibacterial
+PARP inhibitor
+Thrombin inhibitor
+Glucocorticoid Receptor agonist
+Antibiotic
+PKC inhibitor
+CysLTR antagonist
+Histamine Receptor antagonist
+Adrenergic Receptor antagonist
+AGTR antagonist
+MAO inhibitor
+Others
+Topoisomerase inhibitor
+Others
+Others
+Others
+CYP inhibitor
+ROCK-II, PKA, PKG, PKC, MLCK
+Antibacterial
+Others
+Histamine Receptor antagonist
+5-HT Receptor antagonist
+Dopamine Receptor
+Antibiotic
+MAO inhibitor
+Antibacterial
+"Histamine Receptor antagonist;FAK-VEGFR-3"
+Factor Xa inhibitor
+"RAAS inhibitor; ACE inhibitor"
+Adrenergic Receptor antagonist
+COX inhibitor
+Adrenergic Receptor agonist
+Estrogen/Progestogen Receptor agonist
+Topoisomerase inhibitor
+"Dopamine uptake inhibitor;Histamine Receptor antagonist;Noradrenaline uptake inhibitor;Serotonin uptake inhibitor"
+Others
+"Antibiotic; DNA/RNA Synthesis inhibitor"
+"AChR antagonist;Adrenergic Receptor antagonist;Histamine antagonist;Noradrenaline uptake inhibitor;5-HT receptor antagonist"
+AChR antagonist
+"Potassium Channel inhibitor;Sodium Channel inhibitor;AChR antagonist"
+5-HT Receptor agonist
+"Glucocorticoid Receptor inhibitor;Annexin A"
+COX inhibitor
+Adrenergic Receptor antagonist
+"Carbonic anhydrase inhibitor;Potassium Channel inducer"
+Microtubule Associated inhibitor
+Others
+AChR antagonist
+AChE inhibitor
+Antibiotic
+Others
+ChE inhibitor
+COX inhibitor
+Estrogen/Progestogen Receptor agonist
+"Dopamine Receptor antagonist;Possium Channel inhibitor"
+Integrase inhibitor
+PDE inhibitor
+Vasopressin Receptor antagonist
+HIV Protease inhibitor
+Calcium Channel inhibitor
+Antibiotic
+"EGFR inhibitor; HER2 inhibitor"
+"TGF-beta/Smad inhibitor;c-MET inhibitor"
+Adrenergic Receptor antagonist
+"Bcr-Abl inhibitor;c-kit inhibitor; PDGFR inhibitor"
+AChR antagonist
+VB
+"Sodium Channel;Calcium Channel"
+Antibiotic
+"c-Kit inhibitor; PDGFR inhibitor; VEGFR inhibitor"
+EGFR antagonist
+Serine Protease inhibitor
+PPAR agonist
+COX
+Others
+Antibiotic
+"UMP-CMP kinase inhibitor;Autophagy activator;DNA Synthesis inhibitor; Thymidylate synthase inhibitor"
+"Histamine Receptor;AChR antagonist"
+"Antibiotic; DNA grase inhibitor"
+Calcium Channel inhibitor
+Calcium Channel
+AChR antagonist
+Calcium Channel inhibitor
+Adrenergic Receptor agonist
+Dopamine Receptor antagonist
+Antibiotic
+Antibiotic
+AChR antagonist
+Dopamine Receptor antagonist
+"5-HT Receptor antagonist;AChR antagonist"
+Antibiotic
+Adrenergic Receptor antagonist
+Dopamine Receptor agonist
+HIV Protease Inhibitor
+COX inhibitor
+"AMPAR inhibitor; NMDAR inhibitor"
+5-HT Receptor antagonist
+Noradrenaline uptake inhibitor
+Histamine Receptor antagonist
+MMP inhibitor
+COX
+Topoisomerase inhibitor
+"Antiviral; Reverse Transcriptase Inhibitor"
+"Adrenergic Receptor ;Histamine antagonist;PDE inhibitor"
+Adrenergic Receptor agonist
+"Antibiotic; DNA/RNA Synthesis inhibitor"
+Hemozoin synthesis inhibitor
+Carbonic anhydrase inhibitor
+Adrenergic Receptor antagonist
+"Potassium Channel inhibitor;NOS inhibitor;Antibiotic"
+"Calmodulin inhibitor;Sodium Channel inhibitor;ChE inhibitor"
+Topoisomerase inhibitor
+HDAC inhibitor
+"Dehydrogenase inhibitor;Catalase inhibitor"
+Factor Xa inhibitor
+5-HT Receptor inhibitor
+"Src inhibitor;Abl inhibitor;c-Kit inhibitor;EPHA antagonist"
+"5-HT Receptor antagonist;Adrenergic Receptor agonist"
+Antibiotic
+Antibacterial
+Potassium Channel
+Others
+AChR antagonist
+AChE inhibitor
+AChR antagonist
+CAT inhibitor, HNMT inhibitor
+"Histamine Receptor antagonist;Adrenergic Receptor;5-HT receptor antagonist;AChR antagonist;Dopamine Receptor"
+ATPase inhibitor
+Glucocorticoid Receptor agonist
+DNA Synthesis inhibitor
+CYP inhibitor
+"HAP antagonist;FPPS inhibitor"
+"TNF-alpha inhibitor; Cadherin inhibitor"
+Chelator
+HMG-CoA Reductase inhibitor
+"RAAS inhibitor; ACE inhibitor"
+Others
+Antibiotic
+Calcium Channel inhibitor
+Chelator
+"ATPase inhibitor; Proton Pump inhibitor"
+Antibacterial
+Others
+Adrenergic Receptor antagonist
+"Topoisomerase inhibitor; ABC inhibitor; Bile salt export pump inhibitor"
+ROS inhibitor
+Reverse Transcriptase inhibitor
+Topoisomerase inhibitor
+"Potassium Channel inhibitor; Topoisomerase inhibitor"
+DPP-4 inhibitor
+"Calcium Channel inhibitor;MRP inhibitor;Potassium Channel inhibitor"
+AChE inhibitor
+Others
+Others
+"Annexin A agonist;Glucocorticoid receptor agonist"
+Glutathione reductase
+Adrenergic Receptor antagonist
+Others
+Antibiotic
+Adrenergic Receptor antagonist
+Antifungal
+Glucocorticoid Receptor agonist
+Others
+"Farnesyl pyrophosphate synthase inhibitor;Hydroxylapatite antagonist"
+Others
+Calcium Channel inhibitor
+VK
+Others
+Others
+Others
+AChR antagonist
+Others
+ROS
+Others
+Others
+NF-?B inhibitor
+Others
+Others
+Antibiotic
+"Bcl-2 inhibitor; Microtubule Assosiated inhibitor"
+ChE inhibitor
+"Estrogen/Progestogen Receptor antagonist; Glucocorticoid Receptor antagonist; MRP inhibitor"
+"Annexin A agonist;NR stimulator;MRP inhibitor;iNOS negative modulator;Glucocorticoid receptor agonist;IL antagonist"
+Antibiotic
+"MAPK inhibitor;Src inhibitor;Bcr-Abl inhibitor;CaMK inhibitor;CDK inhibitor"
+"Bcr-Abl inhibitor;Mast/stem cell GFR Kit agonist"
+Antibiotic
+AChR antagonist
+NKCC cotransporter inhibitor
+Glucocorticoid Receptor antagonist
+"Androgen Receptor agonist; Estrogen receptor agonist"
+"Akt inhibitor; PI3K inhibitor; PKC inhibitor"
+Histamine Receptor antagonist
+"Bcl-2 inhibitor; Microtubule Associated inhibitor"
+ATPase inhibitor
+5-HT Receptor antagonist
+"AChR antagonist;Dopamine Receptor antagonist"
+JAK inhibitor
+Antibiotic
+Adrenergic Receptor antagonist
+EGFR antagonist
+RNA Synthesis
+"Dopamine uptake inhibitor;Noradrenaline uptake inhibitor;Serotonin uptake inhibitor"
+"Antibiotic; DHFR inhibitor"
+"mTOR inhibitor;FGFR inhibitor"
+HIV Protease inhibitor
+"Adrenergic Receptor agonist ;Dopamine Receptor antagonist"
+"Antibiotic; DNA/RNA Synthesis inhibitor"
+Estrogen/Progestogen Receptor modulator
+"RAAS inhibitor; ACE inhibitor"
+Reverse Transcriptase inhibitor
+"Annexin A;Glucocorticoid Receptor inhibitor;MRP inhibitor"
+"Serotonin uptake inhibitor;Noradrenaline uptake inhibitor;Histamine Receptor antagonist;Dopamine uptake inhibitor;AChR antagonist;Adrenergic Receptor agonist"
+PPAR agonist
+"5-HT Receptor antagonist;Dopamine Receptor antagonist"
+Topoisomerase inhibitor
+Topoisomerase inhibitor
+DNA Alkylating
+Cannabinoid Receptor antagonist
+"Estrogen/Progestogen Receptor antagonist; SERM agonist"
+"GluCl Channel activator;P2 Receptor modulator"
+"Histamine Receptor antagonist;Opioid Receptor agonist;Dopamine uptake inhibitor;Dopamine Receptor ;Adrenergic Receptor antagonist ;5-HT receptor antagonist;Serotonin uptake inhibitor"
+Others
+"5-HT receptor antagonist;Adrenergic Receptor antagonist ;Dopamine Receptor"
+Androgen Receptor agonist
+"Histamine Receptor antagonist;Dopamine Receptor antagonist;5-HT receptor antagonist;AChR antagonist;Adrenergic Receptor antagonist"
+"5-HT receptor antagonist;Adrenergic Receptor antagonist"
+Histamine Receptor antagonist
+"TXA2 Receptor antagonist; COX inhibitor"
+"Glucocorticoid Receptor agonist;MRP inhibitor"
+"Progesterone receptor agonist; Androgen receptor antagonist;COX inhibitor; Mineralocorticoid receptor antagonist"
+GluR antagonist
+NO agonist
+Antibiotic
+Others
+Antibiotic
+"c-Kit inhibitor; PDGFR inhibitor; VEGFR inhibitor"
+Antibiotic
+Topoisomerase inhibitor
+Antibiotic
+AGTR antagonist
+"COX inhibitor;MRP inhibitor"
+DNA Alkylating
+HDAC inhibitor
+5-HT Receptor agonist
+Estrogen receptor allosteric modulator
+Others
+Others
+Topoisomerase inhibitor
+Thyroid hormone receptor agonist
+ROCK inhibitor
+Antibacterial
+P2 Receptor inhibitor
+Adrenergic Receptor antagonist
+AChR antagonist
+AChR antagonist
+"RAAS inhibitor; ACE inhibitor"
+DNA Synthesis inhibitor
+Estrogen/Progestogen Receptor agonist
+Antibacterial
+"TGF-beta/Smad inhibitor; IGF-1R inhibitor"
+"HDAC inhibitor;HMG-CoA reductase inhibitor;Integrin"
+Antibiotic
+Antibiotic
+Androgen Receptor antagonist
+Billiation inhibitor
+Antibiotic
+Calcium Channel inhibitor
+Antibiotic
+"Potassium Channel inhibitor;Protein S100-P antagonist"
+MAO inhibitor
+Others
+Antibiotic
+mTOR inhibitor
+Antibacterial
+Antibiotic
+TRP/TRPV Channel inhibitor
+Estrogen/Progestogen Receptor agonist
+VB
+Antibiotic
+VA
+AChR agonist
+Histone Methyltransferase inhibitor
+Prothrombin inhibitor
+Antibiotic
+Antibiotic
+Potassium Channel
+Estrogen/Progestogen Receptor agonist
+Histamine Receptor antagonist
+Estrogen/Progestogen Receptor agonist
+"Microtubule Associated inhibitor; Glucose uptake inhibitor"
+Antibiotic
+Glucocorticoid Receptor agonist
+Dehydrogenase inhibitor
+VE
+"Potassium Channel inhibitor ;Sodium Channel inhibitor;Adrenergic Receptor antagonist ; Calcium Channel inhibitor"
+"Calcium Channel inhibitor;AChR antagonist"
+AChR antagonist
+"Mineralocorticoid receptor antabonist;Estrogen/Progestogen receptor agonist; Glucocorticoid Receptor agonist;PLA inhibitor"
+Glucocorticoid Receptor inhibitor
+PDE inhibitor
+Antibacterial
+Antibiotic
+Mutagens
+AChR antagonist
+Nucleoside antimetabolite/analog
+"DNA synthesis inhibitor;VD"
+Factor Xa inhibitor
+DNA photosenstizing
+Antibiotic
+IL inhibitor
+COX inhibitor
+MAO inhibitor
+"Dopamine Receptor agonist;AChR antagonist;AChE inhibitor;5-HT receptor antagonist"
+5-HT Receptor antagonist
+Histamine Receptor
+AChR antagonist
+Calcium Channel inhibitor
+Histamine Receptor antagonist
+Glucocorticoid Receptor antagonist
+Topoisomerase inhibitor
+Glucocorticoid Receptor agonist
+"DPP-4 inhibitor;Potassium Channel inhibitor"
+Androgen Receptor antagonist
+Mineralocorticoid Receptor Antagonist
+Estrogen/Progestogen Receptor agonist
+"RAAS inhibitor; ACE inhibitor"
+Topoisomerase inhibitor
+"AMPK activator;Potassium Channel inhibitor"
+VB
+"Carbonic anhydrase inhibitor;Calcium Channel inhibitor;PDE inhibitor"
+Lipid
+AGTR inhibitor
+Adrenergic Receptor antagonist
+Others
+Antibiotic
+"Calcium Channel;AChR antagonist;Adrenergic Receptor antagonist"
+Antibacterial
+Histamine Receptor antagonist
+AChR antagonist
+"RAAS inhibitor; ACE inhibitor; PPAR agonist"
+Antibiotic
+Estrogen/Progestogen Receptor agonist
+Raf inhibitor
+"RAAS antagonist;ACE inhibitor"
+"COX inhibitor;MPO inhibitor"
+Antibiotic
+DNA Synthesis inhibitor
+"ATPase inhibitor; Proton Pump inhibitor"
+COX inhibitor
+Histamine Receptor antagonist
+Histamine Receptor antagonist
+PDE inhibitor
+Reverse Transcriptase inhibitor
+DNA/RNA Synthesis inhibitor
+"Rac1 inhibitor;DNA sythesis inhibitor"
+Melatonin receptor
+RXR/RAR agonist
+AGTR antagonist
+Protease inhibitor
+"ATPase inhibitor; Carbonic Anhydrase inhibitor"
+Antibiotic
+Carbonic anhydrase inhibitor
+Adrenergic Receptor antagonist
+Histamine Receptor antagonist
+Histamine Receptor antagonist
+DNA Synthesis inhibitor
+P2 Receptor antagonist
+DHFR inhibitor
+5-HT Receptor agonist
+Glucocorticoid Receptor antagonist
+AChR antagonist
+Sodium Channel inhibitor
+Antibiotic
+P2 Receptor antagonist
+Dehydrogenase inhibitor
+5-HT Receptor antagonist
+Histamine Receptor antagonist
+Others
+Adrenergic Receptor antagonist
+Glucocorticoid Receptor antagonist
+P2 Receptor inhibitor
+"5-HT Receptor antagonist;Adrenergic Receptor antagonist;Dopamine Receptor antagonist;Potassium Channel inhibitor"
+"CzcO-like inhibitor;DNA intercalation"
+Sodium Channel inhibitor
+"Antibiotic; AO inhibitor"
+Adrenergic Receptor antagonist
+"Androgen Receptor antagonist;Calcium Channel;Estrogen/progestogen Receptor agonist;Glucocorticoid Receptor antagonist"
+5-HT Receptor antagonist
+"Potassium Channel;Adrenergic Receptor antagonist"
+COX
+Glucocorticoid Receptor antagonist
+Reductase inhibitor
+Carbonic anhydrase inhibitor
+AChR antagonist
+"NADPH;Potassium Channel inhibitor"
+Glucocorticoid Receptor agonist
+"NOS negative modulator;IL receptor; Annexin A; Glucocorticoid Receptor agonist"
+AChR antagonist
+Proton Pump inhibitor
+Glucocorticoid Receptor agonist
+Androgen Receptor antagonist
+Glucocorticoid Receptor agonist
+5-HT Receptor antagonist
+Dopamine Receptor antagonist
+Antibiotic
+COX
+AChR agonist
+"Dopamine Receptor; Adrenergic Receptor antagonist;Calmodulin inhibitor"
+DNA Alkylating
+GluR antagonist
+COX
+COX inhibitor
+COX inhibitor
+5-HT Receptor antagonist
+Antiviral
+AChR antagonist
+SMO inhibitor
+ROS inhibitor
+"5-HT Receptor antagonist;AChR antagonist;Adrenergic Receptor antagonist ;Dopamine Receptor antagonist;Histamine antagonist"
+"ChE inhibitor;Histamine receptor antagonist"
+Sodium Channel inhibitor
+COX inhibitor
+"AGTR inhibitor;Transcription factor AP-1"
+"Antibiotic; DNA/RNA Synthesis inhibitor"
+"Serotonin uptake inhibitor;5-HT receptor antagonist;Adrenergic Receptor antagonist ;Histamine Receptor"
+AChE inhibitor
+Histamine Receptor antagonist
+Serine Protease inhibitor
+CaSR activator
+Sodium Channel inhibitor
+Adrenergic Receptor agonist
+PGE2 inhibitor
+GluR antagonist
+Histamine Receptor antagonist
+Calcium Channel inhibitor
+Antithyroid preparation
+Immunologic Factors
+COX inhibitor
+Aromatase inhibitor
+"5-Lipoxygenase inhibitor; COX inhibitor"
+Androgen Receptor antagonist
+Chelator
+MAO inhibitor
+COX inhibitor
+"PLA inhibitor;AChR agonist"
+Sodium Channel inhibitor
+DNA/RNA Synthesis inhibitor
+GABAR agonist
+Others
+Adrenergic Receptor agonist
+"Protein-tyrosine kinase 2 antagonist;AhR agonist;Dehydrogenase inhibitor"
+HAP antagonist
+Estrogen/Progestogen Receptor agonist
+ADA inhibitor
+Antibiotic
+COX inhibitor
+Estrogen/Progestogen Receptor agonist
+Estrogen/Progestogen Receptor agonist
+"Chelator;UGT inhibitor"
+"Noradrenaline uptake inhibitor;Serotonin uptake inhibitor"
+Adrenergic Receptor antagonist
+Aromatase inhibitor
+DNA/RNA Synthesis inhibitor
+Antibiotic
+Estrogen/Progestogen Receptor agonist
+TXA2 receptor antagonist
+Others
+SGLT inhibitor
+SGLT inhibitor
+"PPAR agonist; ABC inhibitor"
+"Potassium Channel inhibitor;PPAR agonist"
+"ATPase inhibitor; Proton Pump inhibitor"
+Antibacterial
+"Cholesterol transport inhibitor;NPC1L1 inhibitor;APN"
+GABAR inhibitor
+AChR antagonist
+5-HT Receptor antagonist
+COX inhibitor
+Antifungal
+Gap Junction
+Dopamine Receptor antagonist
+Antibacterial
+Antibacterial
+AChR antagonist
+AntiVirus
+VEGFR inhibitor
+DNA/RNA Synthesis inhibitor
+Aromatase Inhibitor
+5-HT Receptor modulator
+"Protein S100 antagonist; FGFR inhibitor; IL antagonist"
+Cholesterol esters
+PDE inhibitor
+HDAC inhibitor
+TNF-alpha inhibitor
+AChR antagonist
+DNA Alkylating
+"5-HT receptor antagonist;Adrenergic Receptor antagonist"
+"Histamine Receptor antagonist;PDE inhibitor"
+Estrogen/Progestogen Receptor agonist
+Histamine Receptor antagonist
+"FPS inhibitor;HAP antagonist"
+5-HT Receptor antagonist
+"Adrenergic Receptor antagonist;PAH antagonist;TNF-alpha antagonist"
+"Potassium channel inhibitor;ABC inhibitor;Adrenergic Receptor antagonist ;MRP inhibitor"
+5-HT Receptor antagonist
+"Potassium Channel inhibitor;PPAR agonist"
+"Calmodulin inhibitor;Dopamine Receptor antagonist"
+Sodium Channel inhibitor
+RXR/RAR agonist
+SMO inhibitor
+"DNA gyrase inhibitor;Topoisomerase inhibitor"
+Histamine Receptor antagonist
+Others
+Aromatase Inhibitor
+Antibiotic
+Antibacterial
+Antibiotic
+"Antibiotic; COX inhibitor; IF inhibitor"
+"5-HT receptor antagonist;Histamine antagonist;Dopamine Receptor antagonist;Adrenergic Receptor antagonist ;AChR antagonist"
+"GABAR antagonist;Noradrenaline uptake inhibitor;Dopamine Receptor antagonist;Adrenergic Receptor antagonist ;AChR antagonist;5-HT receptor antagonist;Serotonin uptake inhibitor"
+Androgen Receptor antagonist
+RXR/RAR inhibitor
+Others
+Topoisomerase Inhibitor
+AChR antagonist
+Antibiotic
+Others
+AChR antagonist
+PDE inhibitor
+TGF-beta/Smad inhibitor
+CYP inhibitor
+HAP antagonist
+"HIV Integrase;DNA/RNA Synthesis inhibitor"
+"Antibiotic;DNA/RNA Synthesis inhibitor"
+"RXR/RAR;COX inhibitor"
+Others
+"AhR agonist;Sodium Channel inhibitor"
+DNA/RNA Synthesis inhibitor
+"CAMP PDE activator;PI3K agonist;Adrenergic Receptor antagonist"
+Topoisomerase inhibitor
+GABAR agonist
+5-HT Receptor agonist
+Aromatase Inhibitor
+Antifungal
+ATPase inhibitor
+"Topoisomerase inhibitor; DNA gyrase inhibitor"
+COX inhibitor
+MMP inhibitor
+Others
+Antibiotic
+E3 Ligase activator
+Topoisomerase inhibitor
+VB
+Calcium Channel inhibitor
+COMT inhibitor
+Corticosteroid receptor inhibitor
+DNA/RNA Synthesis inhibitor
+Antiparasitic
+COX inhibitor
+Plasminogen inhibitor
+Others
+Integrin antagonist
+Others
+Phosphatidylcholine
+Others
+Androgen Receptor agonist
+DPP-4 inhibitor
+Reverse Transcriptase inhibitor
+Others
+Amino Acids and Derivatives
+5-HT Receptor agonist
+Others
+GABAR agonist
+Calcium Channel inhibitor
+"RAAS inhibitor; ACE inhibitor"
+Antiparasitic
+5-HT Receptor agonist
+Others
+AChR antagonist
+Dipeptidase inhibitor
+Others
+Others
+Dopamine Receptor antagonist
+Androgen Receptor Agonist
+Influenza Virus
+5-HT Receptor antagonist
+Estrogen/Progestogen Receptor agonist
+"RAAS inhibitor; ACE inhibitor; MRP inhibitor;ChE inhibitor"
+Estrogen/Progestogen Receptor agonist
+Histamine Receptor antagonist
+Dopamine Receptor antagonist
+Antibacterial
+AChR antagonist
+Norepinephrine inhibitor
+"Adrenergic Receptor;Opiod receptor"
+Others
+Serotonin-norepinephrine reuptake inhibitor
+Proton Pump inhibitor
+Estrogen/Progestogen Receptor agonist
+CART
+Sodium Channel inhibitor
+Reverse Transcriptase inhibitor
+Others
+Androgen Receptor antagonist
+Chelator
+Antiviral
+RXR/RAR inhibitor
+Chelator
+"DNA Synthesis inhibitor;Phosphorylase"
+PDE inhibitor
+COX inhibitor
+Carbonic anhydrase inhibitor
+Potassium Channel inhibitor
+Opioid Receptor
+"ATPase inhibitor; Proton Pump inhibitor"
+DNA damage
+"Antiviral; Reverse Transcriptase inhibitor"
+Factor Xa inhibitor
+AChR antagonist
+"ATPase inhibitor; Proton Pump inhibitor"
+Intermediates
+Others
+Leukotriene Receptor
+5-HT Receptor modulator
+Nucleoside Antimetabolite/Analogue
+MAO inhibitor
+"GABAR agonist; Androgen receptor agonist; GluR;PPAR activator"
+ChE inhibitor
+DHPS inhibitor
+"PRPP Amidotransferase inhibitor ;DNA Synthesis inhibitor"
+Antibacterial
+AChR antagonist
+Estrogen/Progestogen Receptor agonist
+Influenza Virus
+Calcium Channel inhibitor
+P2 Receptor antagonist
+DHFR inhibitor
+Sodium Channel inhibitor
+5-HT Receptor antagonist
+MAPK activator
+AChR antagonist
+Glutathione reductase
+COX
+DNA Methyltransferase inhibitor
+"5-HT Receptor antagonist;Dopamine Receptor antagonist"
+Antibiotic
+GluR antagonist
+Sodium Channel
+"RAAS inhibitor; AGTR inhibitor"
+"RTK inhibitor;RTK inhibitor;MRP inhibitor"
+Topoisomerase inhibitor
+Others
+Antibiotic
+Dopa decarboxylase inhibitor
+Glucocorticoid Receptor agonist
+Estrogen/Progestogen Receptor antagonist
+Adrenergic Receptor
+Adrenergic Receptor antagonist
+Histamine Receptor antagonist
+Estrogen/Progestogen Receptor agonist
+VEGFR inhibitor
+Others
+Glucocorticoid Receptor agonist
+VA
+Antibiotic
+Others
+PDE inhibitor
+"NF-?B inhibitor;PDE inhibitor; Sodium Channel inhibitor"
+Opioid Receptor
+Antibiotic
+Calcium channel
+PDE inhibitor
+Tyrosinase inhibitor
+Others
+"Histamine Receptor antagonist;NMDAR antagonist;Sodium Channel inhibitor"
+"Histamine Receptor antagonist;5-HT receptor antagonist;AChR antagonist"
+Calcium Channel inhibitor
+Chelator
+"Antifungal; Demethylase inhibitor"
+"COX inhibitor;Glucocorticoid Receptor antagonist"
+Others
+"Catalase-peroxidase;Reductase"
+"NF-?B inhibitor;TNF inhibitor;COX;FGFR inhibitor"
+Immunologic Factors
+Adrenergic Receptor
+"GABAR antagonist;GluR antagonist; Carbonic anhydrase inhibitor"
+Others
+Amino Acids and Derivatives
+"COX inhibitor;MRP inhibitor"
+Sodium Channel inhibitor
+"Antibiotic; DNA/RNA Synthesis inhibitor"
+Others
+Sodium Channel inhibitor
+"Potassium Channel inhibitor;Sodium Channel inhibitor"
+Others
+"NF-?B inhibitor;COX inhibitor"
+Calcium Channel inhibitor
+Calcium Channel inhibitor
+Adrenergic Receptor agonist
+"ATPase inhibitor; HAP antagonist;PTPase inhibitor"
+Others
+Calcium Channel
+Sodium Channel inhibitor
+Androgen Receptor agonist
+Sodium Channel inhibitor
+"5-HT Receptor antagonist ;Sodium Channel inhibitor;Glutamate receptor antagonist;Dopamine uptake inhibitor;AChR antagonist;ChE inhibitor"
+FASI inhibitor
+"TXA2 antagonist;PDE inhibitor"
+"DNA gyrase inhibitor;Topoisomerase inhibitor"
+Antibiotic
+"5-HT Receptor agonist;AChR antagonist;Dopamine Receptor antagonist"
+"Histamine Receptor antagonist;Potassium Channel inhibitor;Dopamine Receptor antagonist;Adrenergic Receptor antagonist;AChR antagonist;5-HT receptor antagonist"
+5-HT Receptor antagonist
+"COX inhibitor;ALOX5 inhibitor"
+Antibiotic
+CYP inhibitor
+"5-HT receptor antagonist;Dopamine Receptor agonist;Dopamine uptake inhibitor"
+Antibiotic
+Antibiotic
+Others
+"Calcium Channel;Calmodulin inhibitor;Opioid Receptor agonist"
+5-HT Receptor antagonist
+AChR antagonist
+CCK antagonist
+Histamine Receptor antagonist
+"COX inhibitor;Elastin;MRP inhibitor"
+Others
+Calcium Channel inhibitor
+Fatty acid carrier
+"Autophagy inhibitor;ATM/ATR activator"
+Folate Analogue
+Others
+Antibacterial
+"COX inhibitor; Calcium Channel inhibitor"
+"Carbonic anhydrase inhibitor;Calcium Channel inhibitor;Sodium Channel inhibitor"
+Others
+Others
+5-HT Receptor antagonist
+"Topoisomerase inhibitor; DNA gyrase inhibitor"
+Calcium Channel inhibitor
+Sodium Channel inhibitor
+AChR antagonist
+Amino Acids and Derivatives
+"Antiviral;Reverse Transcriptase inhibitor"
+Antibacterial
+"DNA interaction; Histamine N-methyltransferase inhibitor; PLA inhibitor; PLCLP inhibitor"
+Folate metabolism
+Others
+HMG-CoA Reductase inhibitor
+VKOR inhibitor
+Potassium Channel
+"EGFR inhibitor;Sodium Channel inhibitor"
+Topoisomerase inhibitor
+Others
+Dehydrogenase
+"TNF-alpha inhibitor, IL inhibitor; NF-?B inhibitor"
+PDE inhibitor
+"5-HT receptor antagonist;Adrenergic Receptor antagonist"
+Antibiotic
+Antibiotic
+Opioid Receptor
+Adrenergic Receptor agonist
+"E-selectin inhibitor;VEGF;Potassium Channel inhibitor;DH inhibitor; Adrenergic Receptor antagonist ; Natriuretic peptides B; Gap junction protein;VCAM inhibitor"
+"Calcium Channel inhibitor;Histamine Receptor antagonist;Calmodulin inhibitor"
+Sodium Channel inhibitor
+Histamine Receptor antagonist
+Antibiotic
+Reductase inhibitor
+"Histamine Receptor antagonist;Dopamine Receptor antagonist;Adrenergic Receptor antagonist ;5-HT receptor antagonist;Dopamine uptake inhibitor"
+AChR antagonist
+Estrogen/Progestogen Receptor agonist
+HNF activator
+Antibiotic
+"RAAS inhibitor; ACE inhibitor"
+Antibiotic
+Sodium Channel inhibitor
+"Chloride channel inducer;COX inhibitor; PLA inhibitor"
+"NF-?B inhibitor;p53 activator;PPAR inhibitor"
+"Akt inhibitor;MEK inhibitor"
+CYP inhibitor
+Others
+Adrenergic Receptor antagonist
+Others
+Others
+Others
+Others
+Dehydrogenase inhibitor
+Others
+"AhR agonist;Calcium Channel inhibitor;Mineralocorticoid receptor antagonist"
+"Dopamine uptake inhibitor;Noradrenaline uptake inhibitor;Serotonin uptake inhibitor"
+Potassium Channel inhibitor
+STAT inhibitor
+5-HT Receptor antagonist
+"AChR antagonist;Opioid Receptor"
+"Potassium Channel inhibitor; Calmodulin inhibitor;Calcium Channel inhibitor"
+"GluR potentiator; GSK-3 inhibitor"
+"Collagenase inhibitor;hydrolase;MMP inhibitor;RAAS inhibitor"
+Antiprotozoal
+Others
+"Topoisomerase inhibitor; DNA gyrase inhibitor"
+"Potassium Channel inhibitor;Sodium Channel inhibitor"
+Estrogen/Progestogen Receptor agonist
+Endopeptidase inhibitor
+5-HT Receptor
+NKCC cotransporter inhibitor
+Histamine Receptor
+PPAR agonist
+Antibiotic
+Adrenergic Receptor antagonist
+Thiamin antagonist
+PDE inhibitor
+"Serotonin uptake inhibitor;Dopamine uptake inhibitor;Histamine Receptor antagonist;Noradrenaline uptake inhibitor"
+Antibiotic
+"PDE inhibitor;Calcium Channel inhibitor;Calmodulin inhibitor"
+"DHPS inhibitor;DHFR inhibitor"
+Others
+VB
+AMPK activator
+Biliation activator
+AKR
+"MRP inhibitor; HMG-CoA Reductase inhibitor; Integrin"
+"PDE inhibitors;HDAC activator; Adenosine receptor antagonist"
+PLK
+Others
+Androgen Receptor agonist
+DNA/RNA Synthesis inhibitor
+Nucleoside Antimetabolite/Analogue
+Others
+Dopamine Receptor agonist
+"Prothrombin activator;VK"
+Others
+Xanthine Oxidase inhibitor
+COX inhibitor
+Others
+Antibiotic
+Others
+Biliation inhibitor
+Estrogen/Progestogen Receptor agonist
+"Potassium Channel inhibitor;VEGF A"
+Antibiotic
+"NF-?B inhibitor;COX"
+Calcium Channel inhibitor
+"Dopamine Receptor antagonist;5-HT receptor antagonist"
+Topoisomerase inhibitor
+PPAR agonist
+"Autophagy inhibitor;TLR antagonist"
+"5-HT Receptor antagonist;Dopamine Receptor antagonist"
+Others
+Estrogen/Progestogen Receptor agonist
+Microtubule Associated inhibitor
+"Prothrombin;VB;DNA mutation"
+Antibiotic
+Antiparasitic
+Microtubule Associated inhibitor
+Opioid Receptor
+Others
+COX inhibitor
+AChR agonist
+PPAR agonist
+TLR agonist
+"MGA inhibitor; GAA antagonist"
+"5-HT receptor antagonist;Adrenergic Receptor antagonist"
+Amino Acids and Derivatives
+AChR antagonist
+Antibiotic
+Antibiotic
+Others
+Others
+Others
+Antifungal
+Topoisomerase inhibitor
+Others
+"Chelator;HNMT inhibitor"
+AChR antagonist
+ROS inhibitor
+MRP inhibitor
+"COX inhibitor;Amino Acids and Derivatives"
+"Potassium Channel inhibitor;VEGF;Vcam inhibitor;E-selectin inhibitor;Adrenergic Receptor antagonist; NADH inhibitor;HIF modulator"
+"MRP inhibitor;Serotonin uptake inhibitor"
+"Histamine Receptor antagonist;5-HT receptor antagonist;AChR antagonist;Adrenergic Receptor agonist ;Dopamine Receptor antagonist"
+"COX inhibitor;PPAR agonist"
+COX inhibitor
+Sodium Channel inhibitor
+Others
+COX inhibitor
+Topoisomerase inhibitor
+COX inhibitor
+Xanthine Oxidase inhibitor
+Others
+Others
+"Dehydrogenase inhibitor;QOR inhibitor ;VKOR inhibitor"
+Others
+Antibiotic
+Histamine Receptor antagonist
+Adrenergic Receptor antagonist
+Antibiotic
+Antibacterial
+"Adrenergic Receptor antagonist;Calmodulin inhibitor"
+Sodium Channel
+Dopamine Receptor antagonist
+Antibacterial
+Thyroid Hormone Synthesis inhibitor
+Antibiotic
+Others
+DNA/RNA Synthesis inhibitor
+NKCC cotransporter inhibitor
+SMO inhibitor
+"Dopamine Receptor antagonist;Serotonergic receptor antagonist"
+Others
+Others
+COX inhibitor
+Amino Acids and Derivatives
+Others
+"Adrenergic Receptor antagonist;ChE inhibitor"
+"DNA gyrase inhibitor;Topoisomerase inhibitor"
+AChR antagonist
+"AChR antagonist;Histamine Receptor;5-HT receptor antagonist;Dopamine Receptor antagonist;Adrenergic Receptor antagonist"
+Antibiotic
+"Sodium Channel inhibitor; PLA inhibitor;COX inhibitor"
+Nucleoside Antimetabolite/Analogue
+VD
+"CysLTR antagonist; TNF-alpha inhibitor;IL inhibitor;NF-?B inhibitor"
+"AChR antagonist;GABAR;GluR antagonist;Sodium Channel inhibitor"
+Others
+"PDE inhibitor;ROS inhibitor"
+Annexin A
+Others
+LPL inhibitor
+Antibacterial
+Others
+Others
+Sodium Channel inhibitor
+Adrenergic Receptor agonist
+"Plasminogen inhibitor;PPAR activator;COX inhibitor; Bcl-2 inhibitor;thrombomodulin"
+Others
+Adrenergic Receptor
+COX inhibitor
+"Pannexin inhibitor;TRPV inhibitor"
+COX inhibitor
+"Antibiotic;DNA/RNA Synthesis inhibitor"
+Calcium Channel inhibitor
+AChE inhibitor
+Carbonic anhydrase inhibitor
+Others
+"MRP inhibitor;COX inhibitor"
+Thyroid Hormone Synthesis inhibitor
+Sodium Channel inhibitor
+Antibiotic
+DHFR inhibitor
+GABAR antagonist
+COX inhibitor
+COX inhibitor
+Adrenergic Receptor
+"Reductase inhibitor; Catalase-peroxidase"
+Antiparasitic
+"Antibiotic;Microtubule Associated inhibitor"
+Antibiotic
+Histamine Receptor antagonist
+Sodium Channel inhibitor
+Carbonic anhydrase inhibitor
+GABAR antagonist
+Antibacterial
+"Carbonic anhydrase inhibitor;Potassium Channel"
+"Antibiotic; DNA/RNA Synthesis inhibitor"
+Antibiotic
+DPP-4 Inhibitor
+Antiviral
+Plasminogen inhibitor
+"RAAS inhibitor; ACE inhibitor"
+"Fatty acid synthase inhibitor; triacylglycerol lipase inhibitor"
+"RAAS inhibitor;ACE inhibitor;MRP inhibitor"
+"MMP inhibitor;PPAR agonist"
+COX inhibitor
+"Antifungal; Hydroxylase"
+Antibiotic
+Antibacterial
+Antibacterial
+"GluR antagonist; Sodium Channel inhibitor"
+"Antiviral;Reverse Transcriptase inhibitor"
+"5-HT receptor antagonist;Adrenergic Receptor;Dopamine Receptor antagonist;Histamine antagonist"
+Proton Pump inhibitor
+"Noradrenaline uptake inhibitor;5-HT receptor antagonist;Potassium Channel;Serotonin uptake inhibitor;Opioid Receptor;Histamine antagonist;AChR antagonist;Adrenergic Receptor antagonist;NGFR,  BDNF/NT-3 GFR antagonist"
+VA
+Monocarboxylate transporter inhibitor
+Others
+Others
+Adrenergic Receptor antagonist
+Antiplatelet aggregation inhibitor
+Amino Acids and Derivatives
+"Proton Pump inhibitor; Autophagy activator"
+COX inhibitor
+COX inhibitor
+Antibacterial
+Antibiotic
+"Hydrogenase inhibitor; Antibiotic"
+ChE Reactivator
+DNA/RNA Synthesis inhibitor
+Calcium Channel inhibitor
+DNA/RNA Synthesis inhibitor
+Carbonic anhydrase inhibitor
+"5-HT receptor antagonist;Sodium Channel inhibitor"
+"RNA synthesis inhibitor;ADK activator;DH inhibitor"
+"Antiviral;DNA/RNA Synthesis inhibitor"
+Xanthine Oxidase inhibitor
+Others
+Others
+Antibiotic
+"Adenosine receptor agonist; Calcium Channel inhibitor"
+"DNA;MRP inhibitor"
+COX inhibitor
+Antibiotic
+GABAR
+"Cystine Cleavage;NPYR2;Somatostatin binder"
+"AChR antagonist;Dopamine uptake inhibitor;Noradrenaline uptake inhibitor"
+"Antiviral;Reverse Transcriptase inhibitor"
+Reverse Transcriptase inhibitor
+"DNA synthesis inhibitor;Thymidine kinase inducer"
+Antiprotozoal
+Antibiotic
+"Calmodulin inhibitor;Sodium Channel inhibitor"
+Antifungal
+Antibiotic
+PDE inhibitor
+Antibiotic
+Antibiotic
+"Fe(II)-protoporphyrin IX;Platelet glycoprotein IX;Potassium Channel inhibitor"
+Intermediates
+"5-HT receptor antagonist;Histamine antagonist;Dopamine Receptor antagonist;AChR antagonist;Adrenergic Receptor ;Calmodulin inhibitor"
+Intermediates
+Others
+Others
+Biliation activator
+Others
+Others
+"Farnesoid X receptor;VD"
+Histamine Receptor antagonist
+Others
+Others
+DNA Synthesis
+AChR antagonist
+Antibiotic
+"TGF-beta/Smad inhibitor; Histamine Receptor antagonist"
+Others
+NF-?B inhibitor
+Thyroid peroxidase inhibitor
+COX
+VKOR inhibitor
+"GABAR;HDAC inhibitor"
+AChR antagonist
+Antibiotic
+Antibiotic
+Antibiotic
+Others
+Calcium Channel antagonist
+"NO agonist;TNF-alpha inhibitor, IL inhibitor; NF-?B inhibitor"
+Antibiotic
+Antibiotic
+Others
+AChR antagonist
+"Calcium Channel inhibitor;Histamine Receptor antagonist"
+Histamine Receptor antagonist
+Histamine Receptor antagonist
+GABAR antagonist
+Antibiotic
+Antiviral
+Others
+"PKC inhibitor; SEC14-like protein;VE"
+Antibiotic
+Others
+"Bcr-Abl inhibitor;EPHA antagonist;Mast/stem cell GFR Kit; Src inhibitor"
+"NF-?B inhibitor;COX inhibitor"
+Histamine Receptor antagonist
+Others
+Antibiotic
+COX inhibitor
+Antifungal
+"NADPH;COX inhibitor"
+Others
+Antibiotic
+Sodium Channel inhibitor
+Others
+"Antibiotic;DHPS inhibitor"
+CART
+Chelator
+"Adrenergic Receptor antagonist;Dopamine uptake inhibitor"
+NF-?B inhibitor
+Others
+ROS inhibitor
+Others
+Antibiotic
+COX inhibitor
+VB
+Others
+Microtubule Associated inhibitor
+"Dehydrogenase inhibitor; DNA/RNA Synthesis"
+Histamine Receptor antagonist
+TpoR agonist
+Atrial natriuretic peptide receptor agonist
+"PDE inhibitor; Adenosine receptor antagonist;HDAC2 activator"
+Others
+Autophagy
+Antibacterial
+Others
+"Sodium Channel inhibitor;MRP inhibitor"
+"ChE inhibitor;DNA Methyltransferase inhibitor;Sodium Channel inhibitor"
+PDE inhibitor
+Dehydrogenase inhibitor
+Others
+Dehydrogenase
+p-HBH
+COX inhibitor
+Antifungal
+Others
+PDE inhibitor
+VB
+Sodium Channel inhibitor
+"Dopamine Receptor antagonist;Adrenergic Receptor antagonist;AChR antagonist;5-HT receptor antagonist"
+Others
+VK
+Antibiotic
+VB
+Glycine betaine-binding periplasmic protein,Circadian clock protein KaiB
+RNA synthesis
+Lipid
+Fatty Acid Synthase inhibitors
+Phosphorylase
+"Adenosine receptor antagonist;PDE inhibitor"
+Others
+Others
+Norepinephrine
+Topoisomerase inhibitor
+Others
+Others
+Others
+Antibiotic
+Antibiotic
+"STAT inhibitor; Autophagy activator"
+Antibiotic
+Antibiotic
+Others
+"Androgen receptor agonist;COMT inhibitor"
+Antibiotic
+Others
+Others
+VB
+Lipid
+VB
+Antibiotic
+Antibiotic
+Amino Acids and Derivatives
+VB
+Plasminogen inhibitor
+Others
+Dopamine Receptor antagonist
+Amino Acids and Derivatives
+Others
+Opioid Receptor
+TRP/TRPV Channel inhibitor
+Others
+Dopamine Receptor antagonist
+COX inhibitor
+Others
+Others
+Others
+Microtubule Associated inhibitor
+Others
+PPAR agonist
+NF-?B inhibitor
+PDE inhibitor
+PPAR agonist
+Others
+GABAR
+COX inhibitor
+Others
+Others
+Others
+Others
+Antiviral
+Antibiotic
+Others
+COX inhibitor
+Histamine Receptor antagonist
+"NF-?B inhibitor;GluR activator"
+Antibiotic
+Others
+Antibiotic
+Antibiotic
+Others
+Antibiotic
+Topoisomerase inhibitor
+Antibacterial
+Others
+Opioid Receptor
+Others
+"GABAR potentiator;Sodium Channel inhibitor"
+Sodium Channel inhibitor
+HAS inhibitor
+Dopamine Receptor
+Others
+"NF-?B inhibitor; ROS inhibitor"
+Antibiotic
+Others
+GluR agonist
+ABC inhibitor
+Dehydrogenase inhibitor
+Others
+COX
+Others
+ROS inhibitor
+"Lipid; Calcium Channel inhibitor"
+Unusual Amino Acids
+DHPS inhibitor
+VKOR inhibitor
+Others
+Antifungal
+Ryanodine receptor activator
+Potassium Channel inhibitor
+Antibiotic
+Antiprotozoal
+COX inhibitor
+COX inhibitor
+Antibiotic
+Antibiotic
+Antibiotic
+DNA Alkylating
+Antibiotic
+Others
+Others
+Others
+"Thrombomodulin;PPAR activator;COX inhibitor;Bcl-2 modulator"
+VB
+Adrenergic Receptor agonist
+Sodium Channel inhibitor
+DNA interaction
+Others
+"MMP inhibitor;PPAR agonist"
+Others
+MAPK activator
+Amino Acids and Derivatives
+DHOase inhibitor
+Others
+Antifungal
+"Antibiotic;DHPS inhibitor"
+VC
+COX inhibitor
+MRP inhibitor
+"DHPS inhibitor;FolC inhibitor"
+Antibiotic
+Sodium Channel inhibitor
+"GABAR modulator;GluR antagonist; Potassium Channel inhibitor"
+Immunologic Factors
+Adrenergic Receptor antagonist
+AChR antagonist
+Amino Acids and Derivatives
+"MAO inhibitor; PLA inhibitor"
+Others
+Antibacterial
+Antibacterial
+Phosphorylase inhibitor
+"Antibiotic;DHPS inhibitor"
+Antibiotic
+MAO inhibitors
+Tyrosinase inhibitor
+Antibiotic
+Antibiotic
+Antifungal
+"NF-?B inhibitor;PPAR agonist;MPO inhibitor;COX inhibitor"
+Carbonic anhydrase, beta Catenin
+Intermediates
+Intermediates
+Biliation activator
+Intermediates
+ROS activator
+Sodium Channel inhibitor
+Others
+Intermediates
+Others
+Intermediates
+Intermediates
+5-HT Receptor antagonist
+"Antibacterial;GABAR"
+HSP inhibitor
+Antibacterial
+Others
+Others
+Others
+Antibiotic
+Histamine Receptor antagonist
+Antibiotic
+Antibiotic
+CTP synthase antagonist
+COX inhibitor
+Amino Acids and Derivatives
+NF-?B inhibitor
+Others
+Antibiotic
+Thiamin antagonist
+Amino Acids and Derivatives
+Others
+Others
+Others
+Antibiotic
+Others
+Others
+Others
+COX inhibitor
+Dehydrogenase substrate
+Chelator
+Others
+ROS inhibitor
+Others
+Antibacterial
+Antifungal
+Chelator
+"Factor Xa inhibitor;VK antagonist"
+Others
+Others
+Others
+Others
+VB
+GABAR
+"Adenosine Receptor antagonist;HDAC2 activator;PDE inhibitor"
+"MMP antagonist;NF-?B inhibitor;IF inhibitor;Chitosanase;TNF inhibitor"
+Others
+Others
+VC
+VB
+Others
+Others
+Antibiotic
+NF-?B antagonist
+"DNA synthesis inhibitor;ThxR inhibitor"
+ROS inhibitor
+AChE inhibitor
+Antibacterial
+Others
+GABAR agonist
+Antibiotic
+Others
+Others
+Antibacterial
+Antibacterial
+ROS inhibitor
+COX inhibitor
+Antibiotic
+COX inhibitor
+Others
+Others
+Others
+Others
+Phytoestrogen
+FGFR inhibitor
+Others
+Others

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>{% block title %}Python blank template{% endblock %}</title>
+    
+    <meta name="google-site-verification" content="pOQEzargCO0_XvIxo1hGdlKD78lWgY3pgb-hH0AErjo" />
+    
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" />
+    {% block head %}
+    {% endblock %}
+</head>
+
+<body>
+    <div class="container-fluid">
+        {% block content %}{% endblock %}
+    </div>
+
+    <div class="fixed-bottom d-flex justify-content-end mb-3 mr-3">  <a href="{% static 'tutorials/tutorial.pdf' %}" class="btn btn-primary" target="_blank">
+            <i class="fas fa-download mr-2"></i> Tutorial (PDF)
+        </a>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/your_font_awesome_kit_id.js" crossorigin="anonymous"></script>  {% block scripts %}
+    {% endblock %}
+</body>
+
+</html>
